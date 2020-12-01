@@ -1,7 +1,7 @@
 # USWNT-rosters
 All USWNT players in major tournaments since the 2011 World Cup
 
-File Descrp: <br>
+File Annotation: <br>
 USWNT_Timeline.pdf - USWNT roster timeline since 2011 <br> 
 Rosters.xlsx - USWNT roster data
 
